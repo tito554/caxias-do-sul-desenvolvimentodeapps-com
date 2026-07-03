@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://caxias-do-sul.desenvolvimentodeapps.com/sitemap.xml
